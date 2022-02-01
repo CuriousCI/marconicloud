@@ -2,7 +2,9 @@
 - As a teacher, I want to **publish** the notes and the courses I write for
 my students, to make them **easier to find** and to contribute to school's
 repository
-	- Add a form so teachers can propose a new material to add 
+
+- As teacher, I would like either to propose *material* with a **form** or get 
+instructions to **self-upload** my teaching *material*
 
 - As a teacher, I want to check the work done by my **colleagues**, 
 so I can learn new things and I can model my 
