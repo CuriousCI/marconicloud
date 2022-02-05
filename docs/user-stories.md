@@ -50,6 +50,7 @@ without having to write too much stuff
 
 
 ### Developer
-- As the developer I want to:
-	- Build the webiste with Svelte, as it's easy to use, and it compiles
-	into a really efficient JS (and I can add other libraries very easily)
+- As developer, I want to use a framework that I already know and it is easy 
+to learn for other developers, so that I can implement it quickly and can be 
+easily maintained by other developers in the future
+	-  Use [SvelteKit](https://kit.svelte.dev/)
