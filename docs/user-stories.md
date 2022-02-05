@@ -39,6 +39,8 @@ server, so I want a button to acces **tiny file manager** quickly
 - As a middle school student, I want to know what the school is about,
 and I want to know what they actually teach there, so I can decide if
 to study there
+	- Add a link to studenti.marconicloud.it in the school's 
+	[main page](https://www.marconicivitavecchia.it/it/)
 
 
 ### Maintainer
@@ -50,7 +52,7 @@ without having to write too much stuff
 
 
 ### Developer
-- As developer, I want to use a framework that I already know and it is easy 
-to learn for other developers, so that I can implement it quickly and can be 
-easily maintained by other developers in the future
+- As developer, I want to use a framework that I already know and it 
+is easy to learn for other developers, so that I can implement it 
+quickly and can be easily maintained by other developers in the future
 	-  Use [SvelteKit](https://kit.svelte.dev/)
